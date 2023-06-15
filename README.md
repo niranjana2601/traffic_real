@@ -1,6 +1,5 @@
 # Scope
-This project will test live traffic data through multiple platforms (API) for potential inclusion in VZ Viewer. 
-
+This project will test live traffic data through multiple platforms (API) for potential inclusion in VZ Viewer as a simple tool to check the live traffic.  Other uses comprise traffic volume at different hours of the day, months, year, and other non-arbitrary time frames. 
 # Scenario
 The user can see the live condition of the traffic, search for places, and draw routes to check the underlying traffic conditions and toggle the route (hide/show).
 
