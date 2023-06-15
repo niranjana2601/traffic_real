@@ -7,3 +7,5 @@ The user can see the live condition of the traffic, search for places, and draw 
 # Hierarchy of documents
 The number of files shows the process of completion. Smaller numbers preceded newer versions, and larger numbers were built on the previous versions. In the event of having contributors, traditional versioning will be applied.
 
+# API Key
+The currently implemented API key is my personal API key from my Google developer account. We may need to get an organization API Key in the event of a potential inclusion.
