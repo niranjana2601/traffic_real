@@ -9,3 +9,6 @@ The number of files shows the process of completion. Smaller numbers preceded ne
 
 # API Key
 The currently implemented API key is my personal API key from my Google developer account. We may need to get an organization API Key in the event of a potential inclusion.
+
+# index.html
+index page will be populated with the last version of the numbered files. Therefore the index and the last number must be identical.
